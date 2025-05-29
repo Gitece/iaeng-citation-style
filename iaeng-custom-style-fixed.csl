@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>IAENG Custom Style</title>
+    <id>http://www.zotero.org/styles/iaeng-custom</id>
+    <link href="http://www.zotero.org/styles/iaeng-custom" rel="self"/>
+    <author>
+      <name>Your Name</name>
+    </author>
+    <updated>2025-05-29T00:00:00+00:00</updated>
+  </info>
+  <citation>
+    <layout prefix="" suffix="." delimiter=", ">
+      <text variable="author"/>
+      <text variable="title" prefix="&quot;" suffix="&quot;"/>
+      <text variable="container-title"/>
+      <text variable="volume" prefix="vol. "/>
+      <text variable="issue" prefix="no."/>
+      <text variable="page" prefix="pp"/>
+      <text variable="issued" prefix="" suffix=""/>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout prefix="" suffix="." delimiter=", ">
+      <text variable="author"/>
+      <text variable="title" prefix="&quot;" suffix="&quot;"/>
+      <text variable="container-title"/>
+      <text variable="volume" prefix="vol. "/>
+      <text variable="issue" prefix="no."/>
+      <text variable="page" prefix="pp"/>
+      <text variable="issued" prefix="" suffix=""/>
+    </layout>
+  </bibliography>
+</style>
